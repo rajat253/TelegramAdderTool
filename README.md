@@ -4,9 +4,9 @@ This Project Let You add members from Your group to another group or supergroup.
 
 This project is most optimised Telegram member adder.
 
-<h1 align="center">⚠️ALERT⚠️</h1>
+<h1 align="center">⚠️CHECK⚠️</h1>
 
-> **Paid Version** For buy paid version message me on telegram [@saifalisew15o8](https://t.me/saifalisew15o8)
+> **Paid Version** For buy paid version message me on telegram [@saifalisew15o8](https://github.com/rajat253)
 
 > **Disclaimer**  Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool
 
