@@ -6,7 +6,7 @@ This project is most optimised Telegram member adder.
 
 <h1 align="center">⚠️CHECK⚠️</h1>
 
-> **Paid Version** For buy paid version message me on telegram [@saifalisew15o8](https://github.com/rajat253)
+> **Paid Version** For buy paid version message me on telegram [@rajat253](https://github.com/rajat253)
 
 > **Disclaimer**  Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool
 
